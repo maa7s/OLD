@@ -15,3 +15,4 @@ int main()
   cout<<"Numero de Matricula "<<ma<<endl;cout<<"Salario Bruto "<<sbg<<endl;cout<<"Salario Liquido"<<sl;
 
 return 0;
+}
